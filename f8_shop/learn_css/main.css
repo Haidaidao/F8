@@ -1,0 +1,18 @@
+:root {
+    --text-color: red;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 10px;
+    margin-top: 40px;
+    padding: 0 16px;
+}
+
+ul{
+    height: 2000px;
+}
+
